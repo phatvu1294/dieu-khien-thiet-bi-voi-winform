@@ -1,0 +1,49 @@
+C:\Users\Phat Vu\Documents\Visual Studio 2015\Projects\SerialDashboard\SerialDashboard\bin\Release\SerialDashboard.exe
+C:\Users\Phat Vu\Documents\Visual Studio 2015\Projects\SerialDashboard\SerialDashboard\bin\Release\SerialDashboard.pdb
+C:\Users\Phat Vu\Documents\Visual Studio 2015\Projects\SerialDashboard\SerialDashboard\obj\Release\SerialDashboard.frmMain.resources
+C:\Users\Phat Vu\Documents\Visual Studio 2015\Projects\SerialDashboard\SerialDashboard\obj\Release\SerialDashboard.Properties.Resources.resources
+C:\Users\Phat Vu\Documents\Visual Studio 2015\Projects\SerialDashboard\SerialDashboard\obj\Release\SerialDashboard.csproj.GenerateResource.Cache
+C:\Users\Phat Vu\Documents\Visual Studio 2015\Projects\SerialDashboard\SerialDashboard\obj\Release\SerialDashboard.exe
+C:\Users\Phat Vu\Documents\Visual Studio 2015\Projects\SerialDashboard\SerialDashboard\obj\Release\SerialDashboard.pdb
+E:\My Solution\Electronics\Arduino\Bo Dieu Khien Do Oxy Trong Nuoc Ung Dung LoRa\Software\SerialDashboard\obj\Release\SerialDashboard.exe
+E:\My Solution\Electronics\Arduino\Bo Dieu Khien Do Oxy Trong Nuoc Ung Dung LoRa\Software\SerialDashboard\obj\Release\SerialDashboard.pdb
+E:\My Solution\Electronics\Arduino\Bo Dieu Khien Do Oxy Trong Nuoc Ung Dung LoRa\Software\visual-studio\SerialDashboard\bin\Release\SerialDashboard.exe.config
+E:\My Solution\Electronics\Arduino\Bo Dieu Khien Do Oxy Trong Nuoc Ung Dung LoRa\Software\visual-studio\SerialDashboard\obj\Release\SerialDashboard.exe
+E:\My Solution\Electronics\Arduino\Bo Dieu Khien Do Oxy Trong Nuoc Ung Dung LoRa\Software\visual-studio\SerialDashboard\obj\Release\SerialDashboard.pdb
+E:\My Solution\Electronics\Arduino\Bo Dieu Khien Do Oxy Trong Nuoc Ung Dung LoRa\Software\visual-studio\SerialDashboard\bin\Release\SerialDashboard.exe
+E:\My Solution\Electronics\Arduino\Bo Dieu Khien Do Oxy Trong Nuoc Ung Dung LoRa\Software\visual-studio\SerialDashboard\bin\Release\SerialDashboard.pdb
+E:\My Solution\Electronics\Arduino\Bo Dieu Khien Do Oxy Trong Nuoc Ung Dung LoRa\Software\visual-studio\SerialDashboard\obj\Release\SerialDashboard.frmMain.resources
+E:\My Solution\Electronics\Arduino\Bo Dieu Khien Do Oxy Trong Nuoc Ung Dung LoRa\Software\visual-studio\SerialDashboard\obj\Release\SerialDashboard.Properties.Resources.resources
+E:\My Solution\Electronics\Arduino\Bo Dieu Khien Do Oxy Trong Nuoc Ung Dung LoRa\Software\visual-studio\SerialDashboard\obj\Release\SerialDashboard.csproj.GenerateResource.Cache
+E:\My Solution\Electronics\General\He Thong Do Nong Do PH Trong Nuoc Ung Dung LoRa\Software\visual-studio\SerialDashboard\bin\Release\SerialDashboard.exe.config
+E:\My Solution\Electronics\General\He Thong Do Nong Do PH Trong Nuoc Ung Dung LoRa\Software\visual-studio\SerialDashboard\bin\Release\SerialDashboard.exe
+E:\My Solution\Electronics\General\He Thong Do Nong Do PH Trong Nuoc Ung Dung LoRa\Software\visual-studio\SerialDashboard\bin\Release\SerialDashboard.pdb
+E:\My Solution\Electronics\General\He Thong Do Nong Do PH Trong Nuoc Ung Dung LoRa\Software\visual-studio\SerialDashboard\obj\Release\SerialDashboard.frmMain.resources
+E:\My Solution\Electronics\General\He Thong Do Nong Do PH Trong Nuoc Ung Dung LoRa\Software\visual-studio\SerialDashboard\obj\Release\SerialDashboard.Properties.Resources.resources
+E:\My Solution\Electronics\General\He Thong Do Nong Do PH Trong Nuoc Ung Dung LoRa\Software\visual-studio\SerialDashboard\obj\Release\SerialDashboard.csproj.GenerateResource.Cache
+E:\My Solution\Electronics\General\He Thong Do Nong Do PH Trong Nuoc Ung Dung LoRa\Software\visual-studio\SerialDashboard\obj\Release\SerialDashboard.exe
+E:\My Solution\Electronics\General\He Thong Do Nong Do PH Trong Nuoc Ung Dung LoRa\Software\visual-studio\SerialDashboard\obj\Release\SerialDashboard.pdb
+E:\My Solution\Electronics\[Arduino] He Thong Do Nong Do PH Ung Dung LoRa\Software\visual-studio\SerialDashboard\bin\Release\SerialDashboard.exe.config
+E:\My Solution\Electronics\[Arduino] He Thong Do Nong Do PH Ung Dung LoRa\Software\visual-studio\SerialDashboard\bin\Release\SerialDashboard.exe
+E:\My Solution\Electronics\[Arduino] He Thong Do Nong Do PH Ung Dung LoRa\Software\visual-studio\SerialDashboard\bin\Release\SerialDashboard.pdb
+E:\My Solution\Electronics\[Arduino] He Thong Do Nong Do PH Ung Dung LoRa\Software\visual-studio\SerialDashboard\obj\Release\SerialDashboard.frmMain.resources
+E:\My Solution\Electronics\[Arduino] He Thong Do Nong Do PH Ung Dung LoRa\Software\visual-studio\SerialDashboard\obj\Release\SerialDashboard.Properties.Resources.resources
+E:\My Solution\Electronics\[Arduino] He Thong Do Nong Do PH Ung Dung LoRa\Software\visual-studio\SerialDashboard\obj\Release\SerialDashboard.csproj.GenerateResource.Cache
+E:\My Solution\Electronics\[Arduino] He Thong Do Nong Do PH Ung Dung LoRa\Software\visual-studio\SerialDashboard\obj\Release\SerialDashboard.exe
+E:\My Solution\Electronics\[Arduino] He Thong Do Nong Do PH Ung Dung LoRa\Software\visual-studio\SerialDashboard\obj\Release\SerialDashboard.pdb
+E:\MY SOLUTION\ELECTRONICS\AVR\ARDUINO_Bo_Dieu_Khien_Thiet_Bi_RTC_WinForm_ver1.0\software\winform\SerialDashboard\bin\Release\SerialDashboard.exe.config
+E:\MY SOLUTION\ELECTRONICS\AVR\ARDUINO_Bo_Dieu_Khien_Thiet_Bi_RTC_WinForm_ver1.0\software\winform\SerialDashboard\obj\Release\SerialDashboard.exe
+E:\MY SOLUTION\ELECTRONICS\AVR\ARDUINO_Bo_Dieu_Khien_Thiet_Bi_RTC_WinForm_ver1.0\software\winform\SerialDashboard\obj\Release\SerialDashboard.pdb
+E:\MY SOLUTION\ELECTRONICS\AVR\ARDUINO_Bo_Dieu_Khien_Thiet_Bi_RTC_WinForm_ver1.0\software\winform\SerialDashboard\obj\Release\SerialDashboard.frmMain.resources
+E:\MY SOLUTION\ELECTRONICS\AVR\ARDUINO_Bo_Dieu_Khien_Thiet_Bi_RTC_WinForm_ver1.0\software\winform\SerialDashboard\obj\Release\SerialDashboard.Properties.Resources.resources
+E:\MY SOLUTION\ELECTRONICS\AVR\ARDUINO_Bo_Dieu_Khien_Thiet_Bi_RTC_WinForm_ver1.0\software\winform\SerialDashboard\obj\Release\SerialDashboard.csproj.GenerateResource.Cache
+E:\MY SOLUTION\ELECTRONICS\AVR\ARDUINO_Bo_Dieu_Khien_Thiet_Bi_RTC_WinForm_ver1.0\software\winform\SerialDashboard\bin\Release\SerialDashboard.exe
+E:\MY SOLUTION\ELECTRONICS\AVR\ARDUINO_Bo_Dieu_Khien_Thiet_Bi_RTC_WinForm_ver1.0\software\winform\SerialDashboard\bin\Release\SerialDashboard.pdb
+E:\MY SOLUTION\ELECTRONICS\AVR\ARDUINO_Bo_Dieu_Khien_Thiet_Bi_WinForm_ver1.0\software\winform\SerialDashboard\bin\Release\SerialDashboard.exe.config
+E:\MY SOLUTION\ELECTRONICS\AVR\ARDUINO_Bo_Dieu_Khien_Thiet_Bi_WinForm_ver1.0\software\winform\SerialDashboard\bin\Release\SerialDashboard.exe
+E:\MY SOLUTION\ELECTRONICS\AVR\ARDUINO_Bo_Dieu_Khien_Thiet_Bi_WinForm_ver1.0\software\winform\SerialDashboard\bin\Release\SerialDashboard.pdb
+E:\MY SOLUTION\ELECTRONICS\AVR\ARDUINO_Bo_Dieu_Khien_Thiet_Bi_WinForm_ver1.0\software\winform\SerialDashboard\obj\Release\SerialDashboard.frmMain.resources
+E:\MY SOLUTION\ELECTRONICS\AVR\ARDUINO_Bo_Dieu_Khien_Thiet_Bi_WinForm_ver1.0\software\winform\SerialDashboard\obj\Release\SerialDashboard.Properties.Resources.resources
+E:\MY SOLUTION\ELECTRONICS\AVR\ARDUINO_Bo_Dieu_Khien_Thiet_Bi_WinForm_ver1.0\software\winform\SerialDashboard\obj\Release\SerialDashboard.csproj.GenerateResource.Cache
+E:\MY SOLUTION\ELECTRONICS\AVR\ARDUINO_Bo_Dieu_Khien_Thiet_Bi_WinForm_ver1.0\software\winform\SerialDashboard\obj\Release\SerialDashboard.exe
+E:\MY SOLUTION\ELECTRONICS\AVR\ARDUINO_Bo_Dieu_Khien_Thiet_Bi_WinForm_ver1.0\software\winform\SerialDashboard\obj\Release\SerialDashboard.pdb

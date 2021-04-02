@@ -1,0 +1,33 @@
+E:\My Solution\Electronics\Arduino\Bo Dieu Khien Do Oxy Trong Nuoc Ung Dung LoRa\Software\SerialDashboard\bin\Debug\SerialDashboard.exe
+E:\My Solution\Electronics\Arduino\Bo Dieu Khien Do Oxy Trong Nuoc Ung Dung LoRa\Software\SerialDashboard\bin\Debug\SerialDashboard.pdb
+E:\My Solution\Electronics\Arduino\Bo Dieu Khien Do Oxy Trong Nuoc Ung Dung LoRa\Software\SerialDashboard\obj\Debug\SerialDashboard.csprojResolveAssemblyReference.cache
+E:\My Solution\Electronics\Arduino\Bo Dieu Khien Do Oxy Trong Nuoc Ung Dung LoRa\Software\SerialDashboard\obj\Debug\SerialDashboard.frmMain.resources
+E:\My Solution\Electronics\Arduino\Bo Dieu Khien Do Oxy Trong Nuoc Ung Dung LoRa\Software\SerialDashboard\obj\Debug\SerialDashboard.Properties.Resources.resources
+E:\My Solution\Electronics\Arduino\Bo Dieu Khien Do Oxy Trong Nuoc Ung Dung LoRa\Software\SerialDashboard\obj\Debug\SerialDashboard.csproj.GenerateResource.Cache
+E:\My Solution\Electronics\Arduino\Bo Dieu Khien Do Oxy Trong Nuoc Ung Dung LoRa\Software\SerialDashboard\obj\Debug\SerialDashboard.exe
+E:\My Solution\Electronics\Arduino\Bo Dieu Khien Do Oxy Trong Nuoc Ung Dung LoRa\Software\SerialDashboard\obj\Debug\SerialDashboard.pdb
+E:\My Solution\Electronics\Arduino\Bo Dieu Khien Do Oxy Trong Nuoc Ung Dung LoRa\Software\visual-studio\SerialDashboard\bin\Debug\SerialDashboard.exe.config
+E:\My Solution\Electronics\Arduino\Bo Dieu Khien Do Oxy Trong Nuoc Ung Dung LoRa\Software\visual-studio\SerialDashboard\bin\Debug\SerialDashboard.exe
+E:\My Solution\Electronics\Arduino\Bo Dieu Khien Do Oxy Trong Nuoc Ung Dung LoRa\Software\visual-studio\SerialDashboard\bin\Debug\SerialDashboard.pdb
+E:\My Solution\Electronics\Arduino\Bo Dieu Khien Do Oxy Trong Nuoc Ung Dung LoRa\Software\visual-studio\SerialDashboard\obj\Debug\SerialDashboard.frmMain.resources
+E:\My Solution\Electronics\Arduino\Bo Dieu Khien Do Oxy Trong Nuoc Ung Dung LoRa\Software\visual-studio\SerialDashboard\obj\Debug\SerialDashboard.Properties.Resources.resources
+E:\My Solution\Electronics\Arduino\Bo Dieu Khien Do Oxy Trong Nuoc Ung Dung LoRa\Software\visual-studio\SerialDashboard\obj\Debug\SerialDashboard.csproj.GenerateResource.Cache
+E:\My Solution\Electronics\Arduino\Bo Dieu Khien Do Oxy Trong Nuoc Ung Dung LoRa\Software\visual-studio\SerialDashboard\obj\Debug\SerialDashboard.exe
+E:\My Solution\Electronics\Arduino\Bo Dieu Khien Do Oxy Trong Nuoc Ung Dung LoRa\Software\visual-studio\SerialDashboard\obj\Debug\SerialDashboard.pdb
+E:\My Solution\Electronics\Arduino\Bo Dieu Khien Do Oxy Trong Nuoc Ung Dung LoRa\Software\visual-studio\SerialDashboard\obj\Debug\SerialDashboard.csprojResolveAssemblyReference.cache
+E:\My Solution\Electronics\General\He Thong Do Nong Do PH Trong Nuoc Ung Dung LoRa\Software\visual-studio\SerialDashboard\bin\Debug\SerialDashboard.exe.config
+E:\My Solution\Electronics\General\He Thong Do Nong Do PH Trong Nuoc Ung Dung LoRa\Software\visual-studio\SerialDashboard\bin\Debug\SerialDashboard.exe
+E:\My Solution\Electronics\General\He Thong Do Nong Do PH Trong Nuoc Ung Dung LoRa\Software\visual-studio\SerialDashboard\bin\Debug\SerialDashboard.pdb
+E:\My Solution\Electronics\General\He Thong Do Nong Do PH Trong Nuoc Ung Dung LoRa\Software\visual-studio\SerialDashboard\obj\Debug\SerialDashboard.frmMain.resources
+E:\My Solution\Electronics\General\He Thong Do Nong Do PH Trong Nuoc Ung Dung LoRa\Software\visual-studio\SerialDashboard\obj\Debug\SerialDashboard.Properties.Resources.resources
+E:\My Solution\Electronics\General\He Thong Do Nong Do PH Trong Nuoc Ung Dung LoRa\Software\visual-studio\SerialDashboard\obj\Debug\SerialDashboard.csproj.GenerateResource.Cache
+E:\My Solution\Electronics\General\He Thong Do Nong Do PH Trong Nuoc Ung Dung LoRa\Software\visual-studio\SerialDashboard\obj\Debug\SerialDashboard.exe
+E:\My Solution\Electronics\General\He Thong Do Nong Do PH Trong Nuoc Ung Dung LoRa\Software\visual-studio\SerialDashboard\obj\Debug\SerialDashboard.pdb
+E:\My Solution\Electronics\[Arduino] He Thong Do Nong Do PH Ung Dung LoRa\Software\visual-studio\SerialDashboard\bin\Debug\SerialDashboard.exe.config
+E:\My Solution\Electronics\[Arduino] He Thong Do Nong Do PH Ung Dung LoRa\Software\visual-studio\SerialDashboard\obj\Debug\SerialDashboard.exe
+E:\My Solution\Electronics\[Arduino] He Thong Do Nong Do PH Ung Dung LoRa\Software\visual-studio\SerialDashboard\obj\Debug\SerialDashboard.pdb
+E:\My Solution\Electronics\[Arduino] He Thong Do Nong Do PH Ung Dung LoRa\Software\visual-studio\SerialDashboard\bin\Debug\SerialDashboard.exe
+E:\My Solution\Electronics\[Arduino] He Thong Do Nong Do PH Ung Dung LoRa\Software\visual-studio\SerialDashboard\bin\Debug\SerialDashboard.pdb
+E:\My Solution\Electronics\[Arduino] He Thong Do Nong Do PH Ung Dung LoRa\Software\visual-studio\SerialDashboard\obj\Debug\SerialDashboard.frmMain.resources
+E:\My Solution\Electronics\[Arduino] He Thong Do Nong Do PH Ung Dung LoRa\Software\visual-studio\SerialDashboard\obj\Debug\SerialDashboard.Properties.Resources.resources
+E:\My Solution\Electronics\[Arduino] He Thong Do Nong Do PH Ung Dung LoRa\Software\visual-studio\SerialDashboard\obj\Debug\SerialDashboard.csproj.GenerateResource.Cache
